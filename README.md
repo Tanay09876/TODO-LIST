@@ -60,6 +60,11 @@ This project is a web-based to-do list application that allows users to register
    3. **Update Email Configuration**:
       - Update your application to use the App Password for Gmail SMTP by setting it in the email-sending function.
 
+ 
+## Video Tutorial
+   For a visual guide, check out this tutorial: [Create an App Password for Google Account](https://www.youtube.com/watch?v=QGGAZxdPX9A).
+
+
 ## Usage
 
 - Open the project in your browser at `http://localhost/todo-list/public/index.php`.
@@ -70,8 +75,6 @@ This project is a web-based to-do list application that allows users to register
 - **Session Security**: The application uses PHP sessions to manage user login states securely.
 - **Password Security**: Passwords are hashed with bcrypt, adding security to stored credentials.
 
-## Video Tutorial
-For a visual guide, check out this tutorial: [Create an App Password for Google Account](https://www.youtube.com/watch?v=QGGAZxdPX9A).
 
 
 
