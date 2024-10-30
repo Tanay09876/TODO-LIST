@@ -35,12 +35,12 @@ This project is a web-based to-do list application that allows users to register
 3. **Configuration**
    - Update the database credentials in `db.php`:
      
-```php
+``php
       $servername = "localhost";
       $username = "root";
       $password = "";
       $dbname = "TODO_LIST_P";
-'''
+
 
    - Enter your databases that you want or you name it database that you alredy create it.
      
