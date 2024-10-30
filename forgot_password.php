@@ -45,12 +45,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             $mail->isSMTP();
             $mail->Host = 'smtp.gmail.com';
             $mail->SMTPAuth = true;
-            $mail->Username = 'bateriwalatanay67@gmail.com'; // Your Gmail address
-            $mail->Password = 'rtuj llob mpng sezn'; // Your Gmail App Password
+            $mail->Username = ''; // Your Gmail address
+            $mail->Password = ''; // Your Gmail App Password
             $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
             $mail->Port = 587;
 
-            $mail->setFrom('bateriwalatanay67@gmail.com', 'TODO-Password Reset');
+            $mail->setFrom('enter the sender email ', 'TODO-Password Reset');
             $mail->addAddress($email); // Send to user's email based on the username
 
             $mail->isHTML(true);
