@@ -68,4 +68,4 @@ This project is a web-based to-do list application that allows users to register
 
 
 ## Video Tutorial
-For a visual guide, refer to this YouTube tutorial: (Create an App Password for Google Account).
+For a visual guide, refer to this YouTube tutorial: Create an App Password for Google Account.
