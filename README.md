@@ -38,7 +38,7 @@ This project is a web-based to-do list application that allows users to register
      $servername = "localhost";
      $username = "root";
      $password = "";
-     $dbname = "TODO_LIST_P";
+     $dbname = ""; Enter your databases that you want or you name it database that you alredy create it.
      
 
 5. **Gmail App Password Setup**
@@ -66,6 +66,9 @@ This project is a web-based to-do list application that allows users to register
 - **Session Security**: The application uses PHP sessions to manage user login states securely.
 - **Password Security**: Passwords are hashed with bcrypt, adding security to stored credentials.
 
-
 ## Video Tutorial
-For a visual guide, refer to this YouTube tutorial: Create an App Password for Google Account.
+For a visual guide, check out this tutorial: [Create an App Password for Google Account](https://www.youtube.com/watch?v=QGGAZxdPX9A).
+
+
+
+
