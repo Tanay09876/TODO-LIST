@@ -38,7 +38,9 @@ This project is a web-based to-do list application that allows users to register
      $servername = "localhost";
      $username = "root";
      $password = "";
-     $dbname = ""; Enter your databases that you want or you name it database that you alredy create it.
+     $dbname = "";
+
+     -Enter your databases that you want or you name it database that you alredy create it.
      
 
 5. **Gmail App Password Setup**
