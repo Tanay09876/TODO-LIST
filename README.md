@@ -35,7 +35,7 @@ This project is a web-based to-do list application that allows users to register
 3. **Configuration**
    - Update the database credentials in `db.php`:
      
-``php
+      php
       $servername = "localhost";
       $username = "root";
       $password = "";
